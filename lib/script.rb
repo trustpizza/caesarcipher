@@ -20,4 +20,4 @@ def caesar_cipher(string, shifter)
     return_string = number_to_letter.join
 end
 
-caesar_cipher('ab c',1)
+puts caesar_cipher('ab c',1)
